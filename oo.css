@@ -1,23 +1,24 @@
 .banana{
     background-color: aqua;
     margin:20px;
+    display:flex;
 
 }
 
 img{
-    height:500px;
-    width:500px;
+    height:400px;
+    width:400px;
     padding:100px;
 
 }
-
 body{
 
     margin:20px;
     padding:100px;
 }
-.quadrado{
- height:500px;
-    width:500px;
 
+.quadrado{
+    height:500px;
+    width:500px;
+ background-color:red;
 }
