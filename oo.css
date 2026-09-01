@@ -1,6 +1,5 @@
 .banana{
     background-color: aqua;
-    
     margin:20px;
 
 }
@@ -9,4 +8,16 @@ img{
     height:500px;
     width:500px;
     padding:100px;
+
+}
+
+body{
+
+    margin:20px;
+    padding:100px;
+}
+.quadrado{
+ height:500px;
+    width:500px;
+
 }
